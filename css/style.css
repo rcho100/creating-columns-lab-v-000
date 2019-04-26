@@ -8,10 +8,6 @@ body, html {
   background-color: #666;
 }
 
-/** {
-  box-sizing: border-box;
-}*/
-
 .container, h1 {
   width: 80%;
   max-width: 600px;
